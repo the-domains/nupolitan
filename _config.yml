@@ -1,0 +1,28 @@
+name: Nüpolitan
+favicon: null
+layout_spectrum: 0.5305864179972559
+typography_spectrum: 0.3703545988537371
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4856049732770771
+  lightness: 0.3924109395593405
+  saturation: 0.2909148083999753
+  rhythmicContrast: 0.19387095933780074
+purpose: []
